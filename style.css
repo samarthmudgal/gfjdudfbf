@@ -1,0 +1,36 @@
+
+#body
+{
+    background-color: darkgray;
+}
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+h4
+{
+  color:red ;  
+}
+#camera
+{
+    height: 400px;
+    width: 500px;
+}
+.copy_right_footer {
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    width: auto;
+    height: auto;
+}
+img:hover
+{
+    border-radius: 140px;
+}
